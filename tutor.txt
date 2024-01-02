@@ -1,0 +1,5 @@
+menjalankan aplikasi :
+1. masuk ke direktori venv
+2. jalankan "pip install -r requirements.txt"
+3. masuk ke direktori app
+4. jalankan "py -m streamlit run .\src\app.py"
